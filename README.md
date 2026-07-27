@@ -27,7 +27,8 @@ and to separate the different responsibilities clearly.
 
 ## Documentation
 
-The generated Javadoc is located in the [`doc`](doc/) directory and can be
+-[Project documentation (PDF)](documentation/RINGwars_Documentation_Shogo_Seifert.pdf)
+- The generated Javadoc is located in the [`doc`](doc/) directory and can be
 opened locally via `doc/index.html`.
 
 ## Eclipse
