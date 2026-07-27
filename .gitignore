@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Java / Eclipse build output
+/bin/
+*.class
+
+# Local Eclipse workspace data
+.metadata/
+
+# Exported files and archives
+*.jar
+*.zip
+
+# Personal submission documents
+Selbststaendigkeitserklaerung.pdf
+/documentation/
